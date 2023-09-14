@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dydy961008@163.com
+	name = Feiyue DU
